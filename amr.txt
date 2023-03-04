@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 write anythig here
+=======
+ hello group 
+>>>>>>> refs/remotes/origin/main

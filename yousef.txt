@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-write anythig here
-hazem.
-=======
+
  i am trying my best wallahi
->>>>>>> refs/remotes/origin/main

@@ -6,5 +6,7 @@ int main()
 cin>>s>>d;
 f=s*d;
 cout<<f;
+
+
 return 0;
 }
